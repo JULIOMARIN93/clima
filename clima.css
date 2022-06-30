@@ -1,0 +1,22 @@
+*{
+    margin: 10;
+    padding: 10;
+}
+body{
+    background-image: url(https://fondo);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: h1 rgb(7, 7, 7);}
+/*body{
+    background-image: URL(https://fondosmil.com/fondo/94328.jpg);
+    background-size: cover;
+    background-color: h1 brown;
+}*/
+title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+font-size: 230%;
+}
